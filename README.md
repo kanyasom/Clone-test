@@ -1,1 +1,2 @@
 # Clone-test
+JUST UNDERSTANDING CLONE
